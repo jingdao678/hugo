@@ -3,9 +3,7 @@ title: "My First Post"
 date: 2023-05-10T09:37:41+08:00
 draft: false
 ---
-## Introduction
+## 2023/5/10
 
-This is **bold** text, and this is *emphasized* text.
-
-Visit the [Hugo](https://gohugo.io) website!
+**花76.30买了一个9420la.com**
 
