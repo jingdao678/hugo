@@ -7,7 +7,7 @@ draft: true
 
 **花76.30买了一个9420la.com**
 
-Gone camping! :tent: Be back soon.
+Gone camping! :tent: Be back soo
 
 That is so funny! :joy: ❤️ 💕
 
