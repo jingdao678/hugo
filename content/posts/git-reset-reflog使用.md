@@ -1,7 +1,7 @@
 ---
 title: "Git Reset Reflog使用"
 date: 2023-05-11T09:39:50+08:00
-draft: true
+draft: false
 ---
 ## git reset
 ## git reset --hard
