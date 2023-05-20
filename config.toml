@@ -2,7 +2,7 @@
 # 站点配置
 
 baseURL = "https://9420la.com/"
-title = "Hugo站点"
+title = "2023@blog"
 languageCode = "zh-CN"
 hasCJKLanguage = true
 # 版权信息（支持 Markdown）
