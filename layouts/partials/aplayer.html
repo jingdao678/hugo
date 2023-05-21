@@ -2,13 +2,14 @@
 <script src="{{ "APlayer.min.js" | relURL }}"></script>
 
 <!-- 创建一个容器用于放置播放器 -->
-<div id="aplayer"></div>
+<main class="main single" id="main">
+<div id="aplayer" class="main-inner"></div></main>
 
 <!-- 初始化 APlayer -->
 <script>
     var ap = new APlayer({
         container: document.getElementById('aplayer'),
-        autoplay: false,
+        autoplay: true,
         loop: 'all',
         order: 'list',
         preload: 'auto',
