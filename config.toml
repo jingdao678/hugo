@@ -57,6 +57,7 @@ uglyURLs = false
 # 修改时间
 [frontmatter]
     lastmod = ["lastmod", ":git", ":fileModTime", ":default"]
+    aplayer = true
 
 # Markdown 渲染器
 [markup]

@@ -1,0 +1,5 @@
+{{ if eq .Params.aplayer true }}
+   {{ partial "aplayer.html" }}
+{{ else }}
+  {{ .Content }}
+{{ end }}
