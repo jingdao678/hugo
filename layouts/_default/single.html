@@ -1,0 +1,7 @@
+{{ define "main" }}
+{{ if eq .Params.aplayer true }}
+  {{ partial "aplayer.html" . }}
+{{ else }}
+  {{ partial "pages/post.html" . }}
+{{ end }} 
+{{ end }}
