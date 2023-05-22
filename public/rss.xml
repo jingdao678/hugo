@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>2023@blog</title>
+        <link>https://9420la.com/</link>
+        <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
+        <generator>Hugo 0.111.3 https://gohugo.io/</generator>
+        
+            <language>zh-CN</language>
+        
+        
+            <managingEditor>ranran@gmail.com (ranran)</managingEditor>
+        
+        
+            <webMaster>ranran@gmail.com (ranran)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+        
+        <lastBuildDate>Sun, 21 May 2023 22:48:55 &#43;0800</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://9420la.com/rss.xml" />
+        
+        
+            <item>
+                <title>世间美好与你环环相扣 阿冷</title>
+                <link>https://9420la.com/posts/%E4%B8%96%E9%97%B4%E7%BE%8E%E5%A5%BD%E4%B8%8E%E4%BD%A0%E7%8E%AF%E7%8E%AF%E7%9B%B8%E6%89%A3-%E9%98%BF%E5%86%B7/</link>
+                <guid isPermaLink="true">https://9420la.com/posts/%E4%B8%96%E9%97%B4%E7%BE%8E%E5%A5%BD%E4%B8%8E%E4%BD%A0%E7%8E%AF%E7%8E%AF%E7%9B%B8%E6%89%A3-%E9%98%BF%E5%86%B7/</guid>
+                <pubDate>Sun, 21 May 2023 01:26:34 &#43;0800</pubDate>
+                
+                    <author>ranran@gmail.com (ranran)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;video class=&#34;video-shortcode&#34; preload=&#34;&#34; controls&gt;
+    &lt;source src=&#34;https://9420la.com/videos/01.mp4&#34; type=&#34;&#34;&gt;
+    There should have been a video here but your browser does not seem
+    to support it.
+&lt;/video&gt;
+
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>世间美好与你环环相扣</title>
+                <link>https://9420la.com/posts/%E4%B8%96%E9%97%B4%E7%BE%8E%E5%A5%BD%E4%B8%8E%E4%BD%A0%E7%8E%AF%E7%8E%AF%E7%9B%B8%E6%89%A3/</link>
+                <guid isPermaLink="true">https://9420la.com/posts/%E4%B8%96%E9%97%B4%E7%BE%8E%E5%A5%BD%E4%B8%8E%E4%BD%A0%E7%8E%AF%E7%8E%AF%E7%9B%B8%E6%89%A3/</guid>
+                <pubDate>Sun, 21 May 2023 01:09:13 &#43;0800</pubDate>
+                
+                    <author>ranran@gmail.com (ranran)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>猜不透</title>
+                <link>https://9420la.com/posts/%E7%8C%9C%E4%B8%8D%E9%80%8F/</link>
+                <guid isPermaLink="true">https://9420la.com/posts/%E7%8C%9C%E4%B8%8D%E9%80%8F/</guid>
+                <pubDate>Sun, 21 May 2023 01:08:47 &#43;0800</pubDate>
+                
+                    <author>ranran@gmail.com (ranran)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;figure &gt;
+  &lt;audio controls preload=&#34;metadata&#34;&gt;
+    &lt;source src=&#34;https://9420la.com/audio/01.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;/audio&gt;
+  
+&lt;/figure&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Mysql窗口函数</title>
+                <link>https://9420la.com/posts/mysql%E7%AA%97%E5%8F%A3%E5%87%BD%E6%95%B0/</link>
+                <guid isPermaLink="true">https://9420la.com/posts/mysql%E7%AA%97%E5%8F%A3%E5%87%BD%E6%95%B0/</guid>
+                <pubDate>Fri, 19 May 2023 14:45:19 &#43;0800</pubDate>
+                
+                    <author>ranran@gmail.com (ranran)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;&lt;img src=&#34;https://9420la.com/img/01.png&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://9420la.com/img/02.png&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://9420la.com/img/03.png&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://9420la.com/img/04.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>浅浅上传一张照片</title>
+                <link>https://9420la.com/posts/%E5%9B%BE%E7%89%87%E7%A4%BA%E4%BE%8B/</link>
+                <guid isPermaLink="true">https://9420la.com/posts/%E5%9B%BE%E7%89%87%E7%A4%BA%E4%BE%8B/</guid>
+                <pubDate>Thu, 11 May 2023 20:14:54 &#43;0800</pubDate>
+                
+                    <author>ranran@gmail.com (ranran)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;&lt;img src=&#34;https://9420la.com/img/1683807034436.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Git Reset Reflog使用</title>
+                <link>https://9420la.com/posts/git-reset-reflog/</link>
+                <guid isPermaLink="true">https://9420la.com/posts/git-reset-reflog/</guid>
+                <pubDate>Thu, 11 May 2023 09:39:50 &#43;0800</pubDate>
+                
+                    <author>ranran@gmail.com (ranran)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;h4 id=&#34;git-reset&#34;&gt;git reset&lt;/h4&gt;
+&lt;h4 id=&#34;git-reset---hard&#34;&gt;git reset --hard&lt;/h4&gt;
+&lt;h4 id=&#34;git-reset---soft&#34;&gt;git reset --soft&lt;/h4&gt;
+&lt;h4 id=&#34;git-reflog&#34;&gt;git reflog&lt;/h4&gt;
+&lt;h4 id=&#34;git-log&#34;&gt;git log&lt;/h4&gt;
+&lt;h4 id=&#34;git-push-origin-分支---force&#34;&gt;git push origin 分支 --force&lt;/h4&gt;
+&lt;h4 id=&#34;git-revert&#34;&gt;git revert&lt;/h4&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>9420la000</title>
+                <link>https://9420la.com/posts/hugo%E4%BD%BF%E7%94%A8/</link>
+                <guid isPermaLink="true">https://9420la.com/posts/hugo%E4%BD%BF%E7%94%A8/</guid>
+                <pubDate>Wed, 10 May 2023 09:37:41 &#43;0800</pubDate>
+                
+                    <author>ranran@gmail.com (ranran)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;h4 id=&#34;dhugo2023hugo-new-posts世间美好与你环环相扣-md&#34;&gt;D:\hugo\2023&amp;gt;hugo new posts/世间美好与你环环相扣-.md&lt;/h4&gt;
+&lt;h4 id=&#34;dhugo2023hugo-server--d&#34;&gt;D:\hugo\2023&amp;gt;hugo server -D&lt;/h4&gt;
+&lt;h4 id=&#34;dhugo2023git-add--a&#34;&gt;D:\hugo\2023&amp;gt;git add -A&lt;/h4&gt;
+&lt;h4 id=&#34;dhugo2023git-commit--m-提交信息&#34;&gt;D:\hugo\2023&amp;gt;git commit -m &amp;quot;提交信息&amp;quot;&lt;/h4&gt;
+&lt;h4 id=&#34;dhugo2023git-push--u-origin-main&#34;&gt;D:\hugo\2023&amp;gt;git push -u origin main&lt;/h4&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>
