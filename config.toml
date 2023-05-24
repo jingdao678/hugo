@@ -159,6 +159,8 @@ uglyURLs = false
     section = ["HTML"]
     taxonomy = ["HTML"]
     term = ["HTML"]
+    [outputs.drafts]
+        noUglyURLs = false
 
 # RSS & Atom 文章数限制
 [services.rss]
