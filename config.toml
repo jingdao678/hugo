@@ -815,7 +815,7 @@ uglyURLs = false
     displayBusuanziPagePV = false
     # 不蒜子页面浏览量的图标
     busuanziPagePVIcon = "eye"
-    # 说明：仅在生产环境（production）下渲染
+    # 说明：仅在生产环境（production）下渲染 66
     #      首页暂不支持
     #      https://busuanzi.ibruce.info/
 
