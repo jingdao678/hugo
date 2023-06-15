@@ -13,4 +13,4 @@ E0614 15:20:11.631826  230935 memcache.go:121] couldn't get resource list for me
 
 **<font color="red">排查发现镜像用的是image: registry.k8s.io/metrics-server/metrics-server:v0.6.3 </font>**
 
-**<font color="#00BFFF">解决方法：用image: dyrnq/metrics-server:v0.6.3替换image: registry.k8s.io/metrics-server/metrics-server:v0.6.3<font color="red">**
+**<font color="#00BFFF">解决方法：用image: dyrnq/metrics-server:v0.6.3替换image: registry.k8s.io/metrics-server/metrics-server:v0.6.3</font>**
