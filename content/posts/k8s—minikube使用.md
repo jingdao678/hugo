@@ -1,0 +1,26 @@
+---
+title: "K8s—minikube使用"
+date: 2023-06-20T14:31:28+08:00
+draft: true
+---
+1. **docker hub官方镜像无法下载,切换到国内源**
+   *  在/etc/docker/daemon.json下,文件内容
+    ```
+    {
+        "registry-mirrors": [
+        "https://docker.m.daocloud.io",
+        "https://dockerproxy.com",
+        "https://docker.mirrors.ustc.edu.cn",
+        "https://docker.nju.edu.cn"
+       ],
+         "insecure-registries":["10.0.2.15:5000"]
+    }
+    ```
+2. **minikube使用docker的镜像**
+   * minikube image load &lt;docker image&gt;
+3. **gcr.io镜像无法下载**
+   ```
+   - 当我们下载k8s.gcr.io，gcr.io镜像时候，可以使用 lank8s.cn镜像，对应关系为 k8s.gcr.io –> lank8s.cn，gcr.io –> gcr.lank8s.cn，如下所示：
+   - 当我们下载k8s.gcr.io，gcr.io镜像和quay.io镜像，可以把k8s.gcr.io，gcr.io， quay.io镜像换成阿里云镜像下载 ,换成registry.aliyuncs.com/google_containers或registry.cn-hangzhou.aliyuncs.com/google_containers
+   ```
+4.

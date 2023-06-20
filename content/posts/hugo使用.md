@@ -1,5 +1,5 @@
 ---
-title: "9420la000"
+title: "hugo使用"
 date: 2023-05-10T09:37:41+08:00
 draft: false
 ---
