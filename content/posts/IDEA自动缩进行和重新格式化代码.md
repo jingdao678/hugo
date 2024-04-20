@@ -1,7 +1,7 @@
 ---
 title: "IDEA自动缩进行和重新格式化代码"
 date: 2023-05-24T10:12:00+08:00
-draft: false
+draft: true
 ---
 在IntelliJ IDEA中，"Auto-Indent Lines"（自动缩进行）的快捷键是"Ctrl + Alt + I"（Windows）或 "Cmd + Option + I"（Mac）。您可以按下这个快捷键来自动调整所选行或当前行的缩进。
 

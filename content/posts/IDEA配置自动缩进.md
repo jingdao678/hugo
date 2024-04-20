@@ -1,7 +1,7 @@
 ---
 title: "IDEA配置自动缩进"
 date: 2023-05-24T10:14:14+08:00
-draft: false
+draft: true
 ---
 要配置IntelliJ IDEA的自动缩进设置，请按照以下步骤进行操作：
 

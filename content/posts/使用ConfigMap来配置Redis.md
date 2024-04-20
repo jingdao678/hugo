@@ -1,7 +1,7 @@
 ---
 title: "使用ConfigMap来配置Redis"
 date: 2023-06-15T16:36:19+08:00
-draft: false
+draft: true
 ---
 __步骤__
 

@@ -1,7 +1,7 @@
 ---
 title: "elasticsearch使用"
 date: 2023-11-07T16:56:51+08:00
-draft: false
+draft: true
 ---
 #### elasticsearch安装
 

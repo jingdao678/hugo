@@ -1,7 +1,7 @@
 ---
 title: "Mysql窗口函数"
 date: 2023-05-19T14:45:19+08:00
-draft: false
+draft: true
 
 
 ---

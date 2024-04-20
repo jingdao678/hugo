@@ -1,7 +1,7 @@
 ---
 title: "Jvm频繁进行ygc,且每次时间变长,怎么排查解决"
 date: 2023-09-06T11:31:19+08:00
-draft: false
+draft: true
 ---
 频繁进行Young Generation Garbage Collection（YGC）且每次时间逐渐增长可能是Java应用程序性能问题的一个迹象。这种情况通常表明应用程序正在创建大量的短寿命对象，并且这些对象在短时间内就变得不可用，导致Young Generation频繁触发垃圾收集。
 

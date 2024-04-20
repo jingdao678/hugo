@@ -1,7 +1,7 @@
 ---
 title: "Kubernetes安装metrics Server"
 date: 2023-06-14T15:45:14+08:00
-draft: false
+draft: true
 ---
 
 **k8s安装metrics Server报错如下**
